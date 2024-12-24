@@ -160,8 +160,7 @@ st.markdown(
     f"""
     <p style='color: #000000; font-size:25px;'>
         Dear {PERSON_NAME}, 🎉🎂 Wishing you a fantastic day full of happiness, love, and unforgettable moments. May your year ahead be filled with success, joy, and endless laughter. Enjoy your special day! 🎈✨
-        <br><br>
-        -Inshaf😎-
+        <br><br>-Inshaf😎-
     </p>
     """,
     unsafe_allow_html=True
