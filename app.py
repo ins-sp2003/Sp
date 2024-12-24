@@ -20,9 +20,9 @@ def load_lottie_animation(file_path):
 # Function to apply snowfall effect with multiple emojis falling separately
 def run_snow_animation():
     rain(
-        emoji=["🥂", "🎉", "🎂"],    # List of emojis
+        emoji="🥂²²",    # List of emojis
         font_size=30,                # Size of the emojis
-        falling_speed=7,             # Speed at which emojis fall
+        falling_speed=11,             # Speed at which emojis fall
         animation_length="infinite"  # Duration of the animation
     )
 
